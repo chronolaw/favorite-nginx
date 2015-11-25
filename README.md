@@ -15,10 +15,10 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## resty(lua) modules
 * [lua-resty-core](https://github.com/openresty/lua-resty-core) - New FFI-based Lua API for the ngx_lua module
-* [lua-resty-string](https://github.com/openresty/lua-resty-string) — String utilities and common hash functions for ngx_lua and LuaJIT
-* [lua-resty-redis](https://github.com/openresty/lua-resty-redis) — Lua Redis client driver for the ngx_lua based on the cosocket API
-* [lua-cjson](https://github.com/openresty/lua-cjson) — Lua cJSON is a fast JSON encoding / parsing module for Lua
-* [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) — LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
+* [lua-resty-string](https://github.com/openresty/lua-resty-string) - String utilities and common hash functions for ngx_lua and LuaJIT
+* [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for the ngx_lua based on the cosocket API
+* [lua-cjson](https://github.com/openresty/lua-cjson) - Lua cJSON is a fast JSON encoding / parsing module for Lua
+* [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Shared dick lock
 
 ## books
