@@ -22,6 +22,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Shared dick lock
 * [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - DNS resolver for the Nginx Lua module
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API
+* [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 
 ## books
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
