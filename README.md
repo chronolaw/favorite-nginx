@@ -6,6 +6,9 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ##contents
 * [documents](#documents)
 * [nginx modules](#nginx modules)
+* [resty(lua) modules](#resty(lua) modules)
+* [books](#books)
+* [test](#test)
 
 ## documents
 * [open resty on github](https://github.com/openresty) - All codes of agentzh
