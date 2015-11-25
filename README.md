@@ -4,7 +4,7 @@ Selected favorite nginx modules and resources.
 Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## documents
-* [opren resty on github](https://github.com/openresty) - All codes of agentzh
+* [open resty on github](https://github.com/openresty) - All codes of agentzh
 * [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
 * [ngx lua api docs](https://github.com/openresty/lua-nginx-module/#nginx-api-for-lua) - ngx lua api docs
 
