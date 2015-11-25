@@ -1,5 +1,6 @@
 # favorite-nginx
 Selected favorite nginx modules and resources.
+
 Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## nginx modules
@@ -21,3 +22,4 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## others
 * [opren resty on github](https://github.com/openresty) - All codes of agentzh
+* [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
