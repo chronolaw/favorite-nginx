@@ -3,6 +3,11 @@ Selected favorite nginx modules and resources.
 
 Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
+## documents
+* [opren resty on github](https://github.com/openresty) - All codes of agentzh
+* [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
+* [ngx lua api docs](https://github.com/openresty/lua-nginx-module/#nginx-api-for-lua) - ngx lua api docs
+
 ## nginx modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) — Embed the power of Lua into Nginx
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -20,6 +25,4 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
 * [agentzh's Nginx Tutorials(Chinese)](https://github.com/openresty/nginx-tutorials/tree/master/zh-cn)
 
-## others
-* [opren resty on github](https://github.com/openresty) - All codes of agentzh
-* [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
+
