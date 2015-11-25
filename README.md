@@ -16,8 +16,8 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Shared dick lock
 
 ## books
-* [OpenResty Best Practices](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
-* [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html)
+* [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
+* [agentzh's Nginx Tutorials(Chinese)](https://github.com/openresty/nginx-tutorials/tree/master/zh-cn)
 
 ## others
 * [opren resty on github](https://github.com/openresty) - All codes of agentzh
