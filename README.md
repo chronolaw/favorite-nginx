@@ -20,7 +20,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-cjson](https://github.com/openresty/lua-cjson) - Lua cJSON is a fast JSON encoding / parsing module for Lua
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Shared dick lock
-* [lua-resty-dns](https://github.com/openresty/lua-resty-dns) — DNS resolver for the Nginx Lua module
+* [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - DNS resolver for the Nginx Lua module
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API
 
 ## books
