@@ -15,6 +15,8 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [open resty on github](https://github.com/openresty) - All codes of agentzh
 * [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
 * [ngx lua api docs](https://github.com/openresty/lua-nginx-module/#nginx-api-for-lua) - ngx lua api docs
+* [more nginx resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
+* [C/C++ resources](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things
 
 ## nginx modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
