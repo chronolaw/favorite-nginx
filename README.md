@@ -20,6 +20,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## nginx modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
+* [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP servers
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 * [libsregex](https://github.com/openresty/sregex) -  A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams
 
