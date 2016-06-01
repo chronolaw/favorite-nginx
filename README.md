@@ -40,6 +40,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ## books
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
 * [agentzh's Nginx Tutorials(Chinese)](https://github.com/openresty/nginx-tutorials/tree/master/zh-cn)
+* [Programming OpenResty](https://github.com/openresty/programming-openresty)
  
 ## test
 * [wrk](https://github.com/wg/wrk) - like ab
