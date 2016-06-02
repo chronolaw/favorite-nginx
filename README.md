@@ -43,6 +43,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [Programming OpenResty](https://github.com/openresty/programming-openresty)
  
 ## test
+* [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - very useful tools for nginx
 * [wrk](https://github.com/wg/wrk) - like ab
 
 
