@@ -36,14 +36,14 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) - Json lib for lua and C
+ 
+## test
+* [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - very useful tools for nginx
+* [wrk](https://github.com/wg/wrk) - like ab
 
 ## books
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
 * [agentzh's Nginx Tutorials(Chinese)](https://github.com/openresty/nginx-tutorials/tree/master/zh-cn)
 * [Programming OpenResty](https://github.com/openresty/programming-openresty)
- 
-## test
-* [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - very useful tools for nginx
-* [wrk](https://github.com/wg/wrk) - like ab
 
 
