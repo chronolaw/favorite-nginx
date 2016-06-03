@@ -7,8 +7,9 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [documents](#documents)
 * [nginx modules](#nginx modules)
 * [resty(lua) modules](#resty(lua) modules)
-* [books](#books)
 * [test](#test)
+* [books](#books)
+
 
 ## documents
 * [nginx docs](http://nginx.org/en/docs/) - nginx reference manual
@@ -39,6 +40,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
  
 ## test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - very useful tools for nginx
+* [resty-cli](https://github.com/openresty/resty-cli) - Fancy command-line utilities for OpenResty 
 * [wrk](https://github.com/wg/wrk) - like ab
 
 ## books
