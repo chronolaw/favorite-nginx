@@ -40,6 +40,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
  
 ## test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - very useful tools for nginx
+* [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
 * [resty-cli](https://github.com/openresty/resty-cli) - Fancy command-line utilities for OpenResty 
 * [wrk](https://github.com/wg/wrk) - like ab
 
