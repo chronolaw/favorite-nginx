@@ -39,10 +39,10 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) - Json lib for lua and C
  
 ## test
-* [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - very useful tools for nginx
+* [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
 * [resty-cli](https://github.com/openresty/resty-cli) - Fancy command-line utilities for OpenResty 
-* [wrk](https://github.com/wg/wrk) - like ab
+* [wrk](https://github.com/wg/wrk) - Like ab
 
 ## books
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
