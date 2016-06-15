@@ -38,6 +38,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) - Json lib for lua and C
 * [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health-checker for Nginx upstream servers
+* [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - Lua DNS resolver for the ngx_lua based on the cosocket API
  
 ## test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
