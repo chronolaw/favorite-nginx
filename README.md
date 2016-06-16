@@ -39,6 +39,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) - Json lib for lua and C
 * [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health-checker for Nginx upstream servers
 * [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - Lua DNS resolver for the ngx_lua based on the cosocket API
+* [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
  
 ## test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
