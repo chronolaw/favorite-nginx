@@ -4,14 +4,14 @@ Selected favorite nginx modules and resources.
 Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ##contents
-* [documents](#documents)
-* [nginx modules](#nginx modules)
-* [resty(lua) modules](#resty(lua) modules)
-* [test](#test)
-* [books](#books)
+* [Documents](#documents)
+* [Nginx modules](#nginx modules)
+* [Resty(lua) modules](#resty(lua) modules)
+* [Test](#test)
+* [Books](#books)
 
 
-## documents
+## Documents
 * [nginx docs](http://nginx.org/en/docs/) - nginx reference manual
 * [open resty on github](https://github.com/openresty) - All codes of agentzh
 * [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
@@ -19,14 +19,14 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [more nginx resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 * [C/C++ resources](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things
 
-## nginx modules
+## Nginx modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
 * [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP servers
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 * [libsregex](https://github.com/openresty/sregex) -  A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams
 * [ngx_replace_filter](https://github.com/openresty/replace-filter-nginx-module) - Streaming regular expression replacement in response bodies
 
-## resty(lua) modules
+## Resty(lua) modules
 * [lua-resty-core](https://github.com/openresty/lua-resty-core) - New FFI-based Lua API for the ngx_lua module
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) - String utilities and common hash functions for ngx_lua and LuaJIT
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for the ngx_lua based on the cosocket API
@@ -42,14 +42,14 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - Lua DNS resolver for the ngx_lua based on the cosocket API
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
  
-## test
+## Test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
 * [stap++](https://github.com/openresty/stapxx) - Simple macro language extensions to systemtap
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
 * [resty-cli](https://github.com/openresty/resty-cli) - Fancy command-line utilities for OpenResty 
 * [wrk](https://github.com/wg/wrk) - Like ab
 
-## books
+## Books
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
 * [agentzh's Nginx Tutorials(Chinese)](https://github.com/openresty/nginx-tutorials/tree/master/zh-cn)
 * [Programming OpenResty](https://github.com/openresty/programming-openresty)
