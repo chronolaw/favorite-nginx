@@ -9,7 +9,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [Resty(lua) modules](#resty(lua) modules)
 * [Test](#test)
 * [Books](#books)
-* [Known Projects](#known projects)
+* [Known Projects](#known-projects)
 
 
 ## Documents
