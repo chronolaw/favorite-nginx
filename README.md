@@ -37,7 +37,6 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Shared dict lock
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - This library implements a simple LRU cache for OpenResty and the ngx_lua module.
-* [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - DNS resolver for the Nginx Lua module
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) - Json lib for lua and C
