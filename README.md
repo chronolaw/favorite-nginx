@@ -8,6 +8,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [Nginx modules](#nginx modules)
 * [Resty(lua) modules](#resty(lua) modules)
 * [Test](#test)
+* [Tools](#tools)
 * [Books](#books)
 * [Known Projects](#known-projects)
 
@@ -50,8 +51,12 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
 * [stap++](https://github.com/openresty/stapxx) - Simple macro language extensions to systemtap
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
-* [resty-cli](https://github.com/openresty/resty-cli) - Fancy command-line utilities for OpenResty 
 * [wrk](https://github.com/wg/wrk) - Like ab
+
+## Tools
+* [opm](https://github.com/openresty/opm) - Official package management system for OpenResty
+* [resty-cli](https://github.com/openresty/resty-cli) - Fancy command-line utilities for OpenResty 
+
 
 ## Books
 * [OpenResty Best Practices(Chinese)](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details))
