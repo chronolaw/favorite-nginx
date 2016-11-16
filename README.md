@@ -46,6 +46,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA functions for LuaJIT
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) - Lua library for limiting and controlling traffic in OpenResty/ngx_lua
+* [lua-resty-upload](https://github.com/openresty/lua-resty-upload) - Streaming reader and parser for HTTP file uploading based on ngx_lua cosocket
  
 ## Test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
