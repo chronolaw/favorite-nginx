@@ -6,7 +6,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ##Contents
 * [Documents](#documents)
 * [Nginx modules](#nginx modules)
-* [Nginx Lua modules](#nginx lua modules)
+* [Resty(C) modules](#resty(c) modules)
 * [Resty(lua) modules](#resty(lua) modules)
 * [Test](#test)
 * [Tools](#tools)
@@ -29,7 +29,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * [nginx-sticky-module](https://github.com/bymaximus/nginx-sticky-module-ng) - add a sticky cookie to be always forwarded to the same upstream server
 
-## Nginx Lua modules
+## Resty(C) modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
 * [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP servers
 * [lua-ssl-nginx-module](https://github.com/openresty/lua-ssl-nginx-module) - NGINX C module that extends ngx_http_lua_module for enhanced SSL/TLS capabilities
