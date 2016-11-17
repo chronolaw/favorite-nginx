@@ -27,6 +27,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [libsregex](https://github.com/openresty/sregex) -  A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams
 * [ngx_replace_filter](https://github.com/openresty/replace-filter-nginx-module) - Streaming regular expression replacement in response bodies
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
+* [nginx-sticky-module](https://github.com/bymaximus/nginx-sticky-module-ng) - add a sticky cookie to be always forwarded to the same upstream server
 
 ## Nginx Lua modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
