@@ -52,6 +52,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) - Lua library for limiting and controlling traffic in OpenResty/ngx_lua
 * [lua-resty-upload](https://github.com/openresty/lua-resty-upload) - Streaming reader and parser for HTTP file uploading based on ngx_lua cosocket
 * [lua-resty-shdict-simple](https://github.com/openresty/lua-resty-shdict-simple) - Simple application-oriented interface to OpenResty's shared dictionary API
+* [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy/) - SNI Proxy based on the ngx_lua cosocket API
  
 ## Test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
