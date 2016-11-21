@@ -33,6 +33,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
 * [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP servers
 * [lua-ssl-nginx-module](https://github.com/openresty/lua-ssl-nginx-module) - NGINX C module that extends ngx_http_lua_module for enhanced SSL/TLS capabilities
+* [ngx_http_lua_upstream](https://github.com/openresty/lua-upstream-nginx-module) - Nginx C module to expose Lua API to ngx_lua for Nginx upstreams
 
 ## Resty(lua) modules
 * [lua-resty-core](https://github.com/openresty/lua-resty-core) - New FFI-based Lua API for the ngx_lua module
