@@ -5,9 +5,9 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ##Contents
 * [Documents](#documents)
-* [Nginx modules](#nginx modules)
-* [Resty(C) modules](#resty(c) modules)
-* [Resty(lua) modules](#resty(lua) modules)
+* [Nginx modules](#nginx-modules)
+* [Resty(C) modules](#resty(c)-modules)
+* [Resty(lua) modules](#resty(lua)-modules)
 * [Test](#test)
 * [Tools](#tools)
 * [Books](#books)
