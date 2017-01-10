@@ -12,6 +12,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [Tools](#tools)
 * [Books](#books)
 * [Known Projects](#known-projects)
+* [My Own Projects](#my-own-projects)
 
 
 ## Documents
@@ -73,3 +74,10 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## Known Projects
 * [Kong](https://github.com/Mashape/kong) - API Gateway & Microservice Management
+
+## My Own Projects
+* [openresty_dev](https://github.com/chronolaw/openresty_dev) - OpenResty/Lua Programming
+* [stream-lua-nginx-module](https://github.com/chronolaw/stream-lua-nginx-module) - Work with nginx 1.11.4+, log_by_lua/filter_by_lua, and more enhanced
+* [annotated_nginx](https://github.com/chronolaw/annotated_nginx) - 注释nginx1.10.2，学习研究源码
+
+
