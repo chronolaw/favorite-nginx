@@ -41,6 +41,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) - String utilities and common hash functions for ngx_lua and LuaJIT
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for the ngx_lua based on the cosocket API
 * [lua-cjson](https://github.com/openresty/lua-cjson) - Lua cJSON is a fast JSON encoding / parsing module for Lua
+* [lua-cmsgpack](https://github.com/chronolaw/lua-cmsgpack) - Lua cmsgpack is a fast msgpack encoding / parsing module for Lua
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Shared dict lock
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - This library implements a simple LRU cache for OpenResty and the ngx_lua module.
