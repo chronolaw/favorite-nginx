@@ -56,6 +56,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-upload](https://github.com/openresty/lua-resty-upload) - Streaming reader and parser for HTTP file uploading based on ngx_lua cosocket
 * [lua-resty-shdict-simple](https://github.com/openresty/lua-resty-shdict-simple) - Simple application-oriented interface to OpenResty's shared dictionary API
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy/) - SNI Proxy based on the ngx_lua cosocket API
+* [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) - Collection of utility functions for working with IP addresses
  
 ## Test
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
