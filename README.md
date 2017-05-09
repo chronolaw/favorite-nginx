@@ -58,8 +58,10 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ### Database
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for the ngx_lua based on the cosocket API
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API
-* [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) - Lua MySQL client driver for ngx_lua based on the cosocket API
+
+### Backend
+* [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 
 ### Others
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
