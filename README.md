@@ -68,7 +68,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA functions for LuaJIT
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy/) - SNI Proxy based on the ngx_lua cosocket API
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) - Collection of utility functions for working with IP addresses
-* [verynginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx which provide WAF, Control Panel, and Dashboards
+
 
  
 ## Test
@@ -89,6 +89,8 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## Known Projects
 * [Kong](https://github.com/Mashape/kong) - API Gateway & Microservice Management
+* [Orange](https://github.com/sumory/orange) - A Gateway based on OpenResty(Nginx+lua) for API Monitoring and Management.
+* [verynginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx which provide WAF, Control Panel, and Dashboards
 
 ## My Own Projects
 * [openresty_dev](https://github.com/chronolaw/openresty_dev) - OpenResty/Lua Programming
