@@ -68,6 +68,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA functions for LuaJIT
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy/) - SNI Proxy based on the ngx_lua cosocket API
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) - Collection of utility functions for working with IP addresses
+* [verynginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx which provide WAF, Control Panel, and Dashboards
 
  
 ## Test
