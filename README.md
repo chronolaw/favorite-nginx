@@ -29,6 +29,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [ngx_replace_filter](https://github.com/openresty/replace-filter-nginx-module) - Streaming regular expression replacement in response bodies
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * [nginx-sticky-module](https://github.com/bymaximus/nginx-sticky-module-ng) - add a sticky cookie to be always forwarded to the same upstream server
+* [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 
 ## Resty(C) modules
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
