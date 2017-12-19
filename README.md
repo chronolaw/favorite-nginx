@@ -56,6 +56,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-cjson](https://github.com/openresty/lua-cjson) - Lua cJSON is a fast JSON encoding / parsing module for Lua
 * [lua-cmsgpack](https://github.com/chronolaw/lua-cmsgpack) - Lua cmsgpack is a fast msgpack encoding / parsing module for Lua
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) - Json lib for lua and C
+* [lua-resty-msgpack](https://github.com/chronolaw/lua-resty-msgpack) - Lua messagepack for ngx_lua/stream_lua/OpenResty
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
 
 ### Database
