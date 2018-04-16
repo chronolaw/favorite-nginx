@@ -81,6 +81,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [stap++](https://github.com/openresty/stapxx) - Simple macro language extensions to systemtap
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
 * [wrk](https://github.com/wg/wrk) - Like ab
+* [travis-ci](https://travis-ci.org) - travis-ci
 
 ## Tools
 * [opm](https://github.com/openresty/opm) - Official package management system for OpenResty
