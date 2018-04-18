@@ -73,6 +73,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy/) - SNI Proxy based on the ngx_lua cosocket API
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) - Collection of utility functions for working with IP addresses
 * [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) - Fast and automated multi-level cache for OpenResty
+* [lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid) - A pure LuaJIT (no dependencies) UUID library tuned for performance
 
 
  
