@@ -81,6 +81,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
 * [stap++](https://github.com/openresty/stapxx) - Simple macro language extensions to systemtap
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
+* [lua-resty-busted](https://github.com/thibaultcha/lua-resty-busted) - A little hack to test OpenResty scripts with busted
 * [wrk](https://github.com/wg/wrk) - Like ab
 * [travis-ci](https://travis-ci.org) - travis-ci
 
