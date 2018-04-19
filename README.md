@@ -5,15 +5,15 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## Contents
 * [Documents](#documents)
-* [Nginx modules](#nginx_modules)
-* [Resty(C) modules](#resty(c)_modules)
-* [Resty(lua) modules](#resty(lua)_modules)
+* [Nginx modules](#nginx-modules)
+* [Resty(C) modules](#resty(c)-modules)
+* [Resty(lua) modules](#resty(lua)-modules)
 * [Test](#test)
 * [Tools](#tools)
 * [Books](#books)
-* [Known Projects](#known_projects)
+* [Known Projects](#known-projects)
 * [Conference](#conference)
-* [My Own Projects](#myown_projects)
+* [My Own Projects](#my-own-projects)
 
 
 ## Documents
