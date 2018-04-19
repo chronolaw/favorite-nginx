@@ -5,14 +5,15 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## Contents
 * [Documents](#documents)
-* [Nginx modules](#nginx-modules)
-* [Resty(C) modules](#resty(c)-modules)
-* [Resty(lua) modules](#resty(lua)-modules)
+* [Nginx modules](#nginx_modules)
+* [Resty(C) modules](#resty(c)_modules)
+* [Resty(lua) modules](#resty(lua)_modules)
 * [Test](#test)
 * [Tools](#tools)
 * [Books](#books)
-* [Known Projects](#known-projects)
-* [My Own Projects](#my-own-projects)
+* [Known Projects](#known_projects)
+* [Conference](#conference)
+* [My Own Projects](#myown_projects)
 
 
 ## Documents
@@ -100,6 +101,9 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [Lapis](http://leafo.net/lapis/) - A web framework for Lua or MoonScript powered by OpenResty
 * [Orange](https://github.com/sumory/orange) - A Gateway based on OpenResty(Nginx+lua) for API Monitoring and Management.
 * [verynginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx which provide WAF, Control Panel, and Dashboards
+
+## Conference
+* [2017](http://con.openresty.org/cn/2017/) - OpenResty Con 2017
 
 ## My Own Projects
 * [openresty_dev](https://github.com/chronolaw/openresty_dev) - OpenResty/Lua Programming
