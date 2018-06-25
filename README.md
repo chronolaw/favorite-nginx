@@ -107,6 +107,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [verynginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx which provide WAF, Control Panel, and Dashboards
 
 ## Conference
+* [2016](http://con.openresty.org/cn/2016/) - OpenResty Con 2016
 * [2017](http://con.openresty.org/cn/2017/) - OpenResty Con 2017
 
 ## My Own Projects
