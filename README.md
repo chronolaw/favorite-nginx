@@ -84,6 +84,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) - Very useful tools for nginx
 * [stap++](https://github.com/openresty/stapxx) - Simple macro language extensions to systemtap
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development
+* [ngx_google_perftools_profiler](https://github.com/chronolaw/ngx_google_perftools_profiler_module) - A better tools for nginx with google_perftools
 * [lua-resty-busted](https://github.com/thibaultcha/lua-resty-busted) - A little hack to test OpenResty scripts with busted
 * [lua-resty-repl](https://github.com/saks/lua-resty-repl) - A debugger console for OpenResty
 * [wrk](https://github.com/wg/wrk) - Like ab
@@ -113,6 +114,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ## My Own Projects
 * [openresty_dev](https://github.com/chronolaw/openresty_dev) - OpenResty/Lua Programming
 * [annotated_nginx](https://github.com/chronolaw/annotated_nginx) - 注释nginx，学习研究源码
+
 
 
 
