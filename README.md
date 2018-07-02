@@ -77,6 +77,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) - Fast and automated multi-level cache for OpenResty
 * [lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid) - A pure LuaJIT (no dependencies) UUID library tuned for performance
 * [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events) - Inter process events for Nginx worker processes
+* [luafilesystem](https://github.com/spacewander/luafilesystem) - Reimplement luafilesystem via LuaJIT FFI.
 
 
  
