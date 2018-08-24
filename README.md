@@ -107,6 +107,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [upyun-resty](https://github.com/upyun/upyun-resty) - UPYUN's open source software for OpenResty development
 * [Kong](https://github.com/Mashape/kong) - API Gateway & Microservice Management
 * [Lapis](http://leafo.net/lapis/) - A web framework for Lua or MoonScript powered by OpenResty
+* [lor](https://github.com/sumory/lor) - a fast, minimalist web framework for lua based on OpenResty(中文)
 * [Orange](https://github.com/sumory/orange) - A Gateway based on OpenResty(Nginx+lua) for API Monitoring and Management.
 * [verynginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx which provide WAF, Control Panel, and Dashboards
 
