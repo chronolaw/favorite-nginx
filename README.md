@@ -70,6 +70,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ### Backend
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) - WebSocket support for the ngx_lua module (and OpenResty) 
+* [api-gateway-zmq-logger](https://github.com/adobe-apiplatform/api-gateway-zmq-logger) - Lua logger to send ZMQ messages using czmq lib
 
 ### Others
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
