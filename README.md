@@ -69,6 +69,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ### Backend
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua
+* [lua-resty-http2](https://github.com/tokers/lua-resty-http2) - The HTTP/2 Protocol (Client Side) Implementation for OpenResty
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) - WebSocket support for the ngx_lua module (and OpenResty) 
 * [api-gateway-zmq-logger](https://github.com/adobe-apiplatform/api-gateway-zmq-logger) - Lua logger to send ZMQ messages using czmq lib
 
