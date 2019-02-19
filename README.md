@@ -116,6 +116,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 ## Conference
 * [2016](http://con.openresty.org/cn/2016/) - OpenResty Con 2016
 * [2017](http://con.openresty.org/cn/2017/) - OpenResty Con 2017
+* [2018](http://con.openresty.org/cn/2018/) - OpenResty Con 2018
 
 ## My Own Projects
 * [openresty_dev](https://github.com/chronolaw/openresty_dev) - OpenResty/Lua Programming
