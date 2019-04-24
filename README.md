@@ -35,6 +35,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - provides support for the "CONNECT" HTTP method
 
 ## Resty(C) modules
+* [luajit2](https://github.com/openresty/luajit2) - OpenResty's LuaJIT branch
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the power of Lua into Nginx
 * [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) - Embed the power of Lua into NGINX TCP servers
 * [lua-ssl-nginx-module](https://github.com/openresty/lua-ssl-nginx-module) - NGINX C module that extends ngx_http_lua_module for enhanced SSL/TLS capabilities
