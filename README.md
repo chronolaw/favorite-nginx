@@ -33,6 +33,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [nginx-sticky-module](https://github.com/bymaximus/nginx-sticky-module-ng) - add a sticky cookie to be always forwarded to the same upstream server
 * [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - provides support for the "CONNECT" HTTP method
+* [tengine modules](https://github.com/alibaba/tengine) - modules in tengines(slab_stat/footer/trim/...)
 
 ## Resty(C) modules
 * [luajit2](https://github.com/openresty/luajit2) - OpenResty's LuaJIT branch
