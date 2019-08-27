@@ -112,6 +112,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ## Known Projects
 * [upyun-resty](https://github.com/upyun/upyun-resty) - UPYUN's open source software for OpenResty development
+* [iresty](https://github.com/iresty) - apisix and other useful tools
 * [Kong](https://github.com/Mashape/kong) - API Gateway & Microservice Management
 * [Lapis](http://leafo.net/lapis/) - A web framework for Lua or MoonScript powered by OpenResty
 * [lor](https://github.com/sumory/lor) - a fast, minimalist web framework for lua based on OpenResty(中文)
