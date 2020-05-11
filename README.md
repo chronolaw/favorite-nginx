@@ -87,6 +87,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events) - Inter process events for Nginx worker processes
 * [luafilesystem](https://github.com/spacewander/luafilesystem) - Reimplement luafilesystem via LuaJIT FFI.
 * [lua-resty-letsencrypt](https://github.com/torhve/lua-resty-letsencrypt) - Automatically fetch and renew TLS certificates on the fly using LetsEncrypt CA
+* [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) - a very simple lua module to get ip location with maxmind db, you need optimize it
 * [xml2lua](https://github.com/manoelcampos/xml2lua) - xml2lua
 * [sqlite-ffi](https://github.com/ColonelThirtyTwo/lsqlite3-ffi) - sqlite
 
