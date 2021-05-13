@@ -23,6 +23,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
 * [ngx lua api docs](https://github.com/openresty/lua-nginx-module/#nginx-api-for-lua) - ngx lua api docs
 * [more nginx resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
+* [nginx.org.cn](https://www.nginx.org.cn/)
 * [C/C++ resources](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things
 
 ## Nginx modules
