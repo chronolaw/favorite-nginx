@@ -21,6 +21,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [nginx unit](http://unit.nginx.org/) - nginx controller and router
 * [openresty on github](https://github.com/openresty) - All code of agentzh
 * [luajit ffi docs](http://luajit.org/ext_ffi.html) - luajit ffi docs
+* [luajit 2.1](https://repo.or.cz/w/luajit-2.0.git/blob_plain/v2.1:/doc/luajit.html) - luajit 2.1 docs
 * [ngx lua api docs](https://github.com/openresty/lua-nginx-module/#nginx-api-for-lua) - ngx lua api docs
 * [more nginx resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 * [nginx.org.cn](https://www.nginx.org.cn/) - Community for China users
