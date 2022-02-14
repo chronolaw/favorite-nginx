@@ -78,6 +78,9 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) - WebSocket support for the ngx_lua module (and OpenResty) 
 * [api-gateway-zmq-logger](https://github.com/adobe-apiplatform/api-gateway-zmq-logger) - Lua logger to send ZMQ messages using czmq lib
 
+### Router
+* [radixtree](https://github.com/api7/lua-resty-radixtree) - Radix tree imeplement based on FFI rax
+
 ### Others
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA functions for LuaJIT
