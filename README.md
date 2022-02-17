@@ -68,6 +68,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ### Database
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua Redis client driver for the ngx_lua based on the cosocket API
+* [lua-resty-lmdb](https://github.com/Kong/lua-resty-lmdb) - Use the LMDB (Lightning Memory-Mapped Database) inside the Nginx worker process
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) - Lua MySQL client driver for ngx_lua based on the cosocket API
 
