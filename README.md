@@ -84,6 +84,7 @@ Thanks for [awesome-resty](https://github.com/bungle/awesome-resty).
 
 ### Others
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Nonblocking remote access logging for Nginx
+* [lua-resty-openssl](https://github.com/fffonion/lua-resty-openssl) - FFI-based OpenSSL binding for LuaJIT
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA functions for LuaJIT
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy/) - SNI Proxy based on the ngx_lua cosocket API
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) - Collection of utility functions for working with IP addresses
